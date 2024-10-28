@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **on my own survey service (like google forms)**
 
-- 🌱 I’m currently learning **Web programming and Golang courses from Yandex**
+- 🌱 I’m  learning **Web programming and Golang courses from Yandex**
 
 - 📫 How to reach me **dmitriitemurov@yandex.ru**
 
