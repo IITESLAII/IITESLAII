@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitrii
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">2nd year Computer Science student from Russia 🇷🇺 and Tajikistan 🇹🇯 </h3>
+<h3 align="center">2nd year Computer Science student from Russia <img src="https://www.sitatyr.org.mx/images/country-flag-16X16/Russian%20Federation.png"> and Tajikistan <img style style="height: 16px" src="https://www.sitatyr.org.mx/images/country-flag-16X16/Tajikistan.png" </h3>
 
 
 
